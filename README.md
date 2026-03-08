@@ -55,6 +55,3 @@ If you run it during any installation, the installation will most likely to fail
 # Compatibility 💻
 
 Tested on Windows 10, 8.1, 8, 7, Vista and XP (64 & 32 bit)
-
-
-
