@@ -37,7 +37,6 @@ you will be amazed of how much space this tool can free for you!
 
 #### After Cleaning Process Script Will Enable [Ultimate Performance Mode](https://www.makeuseof.com/how-to-enable-ultimate-performance-power-plan/)
 
-
 # How to use? 
 
 Just download ```WindowsCleanerUtility.bat``` from [Releases](https://github.com/Chainski/WindowsCleanerUtility/releases) 
@@ -50,7 +49,6 @@ NOT all of the files will be deleted! Some of them might be used by other proces
 
 Do NOT Run this tool while installing any program, game or during software updates, your PC must be in idle state before you run it. 
 If you run it during any installation, the installation will most likely to fail, and you may not have the option to reinstall!
-
 
 # Compatibility 💻
 
