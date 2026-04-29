@@ -1,13 +1,13 @@
 <p align= "center">
-  <img src="https://img.shields.io/github/languages/top/Chainski/WindowsCleanerUtility?color=red">
-   <img src="https://img.shields.io/github/stars/Chainski/WindowsCleanerUtility?style=flat&color=red">
-   <img src="https://img.shields.io/github/forks/Chainski/WindowsCleanerUtility?style=flat&color=red">
-   <img src="https://img.shields.io/github/issues/Chainski/WindowsCleanerUtility?style=flat&color=red">
+  <img src="https://img.shields.io/github/languages/top/Chainski/WindowsCleanerUtility?color=116F8C">
+   <img src="https://img.shields.io/github/stars/Chainski/WindowsCleanerUtility?style=flat&color=116F8C">
+   <img src="https://img.shields.io/github/forks/Chainski/WindowsCleanerUtility?style=flat&color=116F8C">
+   <img src="https://img.shields.io/github/issues/Chainski/WindowsCleanerUtility?style=flat&color=116F8C">
   <br>
-   <img src="https://img.shields.io/github/license/Chainski/WindowsCleanerUtility?color=red">
-   <img src="https://img.shields.io/github/contributors/Chainski/WindowsCleanerUtility?color=red">
-    <img src="https://hits.sh/github.com/Chainski/WindowsCleanerUtility.svg?label=views&color=red">
-    <img src="https://img.shields.io/github/downloads/Chainski/WindowsCleanerUtility/total?color=red">
+   <img src="https://img.shields.io/github/license/Chainski/WindowsCleanerUtility?color=116F8C">
+   <img src="https://img.shields.io/github/contributors/Chainski/WindowsCleanerUtility?color=116F8C">
+    <img src="https://hits.sh/github.com/Chainski/WindowsCleanerUtility.svg?label=views&color=116F8C">
+    <img src="https://img.shields.io/github/downloads/Chainski/WindowsCleanerUtility/total?color=116F8C">
    <br>
 </p>
 
